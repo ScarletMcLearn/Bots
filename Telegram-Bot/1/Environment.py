@@ -1,3 +1,3 @@
-TOKEN = "6927590544:AAEIE5ifKSj-s26wjXUWGv6CEkCKud_h5fs"
+TOKEN = "BOT-TOKEN"
 
-GET_UPDATES = "https://api.telegram.org/bot6927590544:AAEIE5ifKSj-s26wjXUWGv6CEkCKud_h5fs/getUpdates"
+GET_UPDATES = "https://api.telegram.org/botBOT-TOKEN/getUpdates"
